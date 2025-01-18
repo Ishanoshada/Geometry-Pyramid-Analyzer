@@ -70,6 +70,8 @@ geometry-pyramid-analysis/
 - **requirements.txt**: File listing Python dependencies required for the project.
 
 ![img5](/img/pyr_giza.png)
+
+
 ### Key Parameters and Their Relationships
 
 - **Base Lengths**: North and East
@@ -77,10 +79,7 @@ geometry-pyramid-analysis/
 - **Slope Angle**: Angle between the base and the slant height
 - **Apothem**: The slant height of the pyramid, calculated using the Pythagorean theorem.
 - **Edge**: The distance from the apex (or peak) to a corner of the base.
-- **Diagonal (CG)**: The diagonal distance, which is calculated as  
-  \[
-  \text{Diagonal (CG)} = \sqrt{2 \times (\text{Base Length})^2}
-  \]
+- **Diagonal (CG)**: The diagonal distance, which is calculated as \( \sqrt{2 \times (\text{Base Length})^2} \).
 
 ### Special Calculations
 
@@ -131,7 +130,7 @@ geometry-pyramid-analysis/
 
 10. **Pi Method 2 Calculation**:
    \[
-   \text{{My Method 2: }} \left( \text{{calculate\_apothem}}() - \text{{calculate\_edge}}() + \frac{{\text{{Base Length North}}}}{{\text{{Height}}}} \times \frac{{\text{{Base Length East}}}}{{\text{{Half Base}}}} \right)
+   \left( \text{{calculate\_apothem}}() - \text{{calculate\_edge}}() + \frac{{\text{{Base Length North}}}}{{\text{{Height}}}} \times \frac{{\text{{Base Length East}}}}{{\text{{Half Base}}}} \right)
    \]
 
 11. **Golden Ratio Method 2 Calculation**:
@@ -139,7 +138,6 @@ geometry-pyramid-analysis/
    \left| \sin\left( \log\left( \text{{Base Length East}} \right) \right) - \text{{Edge}} \right| \div \text{{Half Base}}
    \]
 
----
 
 ### Speed of Light Approximation
 
@@ -148,6 +146,7 @@ I developed a unique formula that approximates the speed of light using the geom
 \[
 \frac{{\sqrt{\log(\text{height})} \times \text{base\_length\_north} - \text{base\_length\_east}}}{{\text{half\_base}}}
 \]
+
 
 This formula demonstrates how geometric constants can be linked to fundamental physics constants. The data in `data/light_of_speed.txt` played a key role in my discovery of this relationship, and the formula was devised as part of the pyramid geometry analysis in this project.
 
@@ -159,15 +158,22 @@ This formula demonstrates how geometric constants can be linked to fundamental p
 - Diagonal Base: 1144.66446 ft
 - Half Base: 404.7 ft
 
-**Calculated Value**:
-- **Calculated Speed of Light**:  
-  \( 2.997884 \, \text{ft/s} \)
+#### Calculated Speed of Light:
+\[
+2.997884 \, \text{ft/s}
+\]
 
-- **Actual Speed of Light**:  
-  \( 2.997924 \times 10^8 \, \text{m/s} \)
+#### Actual Speed of Light:
+\[
+2.997924 \times 10^8 \, \text{m/s}
+\]
 
-- **Difference**:  
-  \( 0.000040 \, \text{ft/s} \)
+#### Difference:
+\[
+0.000040 \, \text{ft/s}
+\]
+
+
 
 This difference is small enough to indicate that the pyramid's dimensions, through this calculation, yield a close approximation to the actual speed of light.
 
