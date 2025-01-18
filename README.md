@@ -1,6 +1,8 @@
 # Pyramid Mathematics and Geometry Calculator
 
 
+![Language](https://img.shields.io/badge/language-python-orange) ![Language](https://img.shields.io/badge/language-golang-blue)  ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Repo Size](https://img.shields.io/github/repo-size/Ishanoshada/geometry-pyramid-analyzer) ![GitHub Issues](https://img.shields.io/github/issues/Ishanoshada/geometry-pyramid-analyzer) ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Ishanoshada/geometry-pyramid-analyzer) ![GitHub Contributors](https://img.shields.io/github/contributors/Ishanoshada/geometry-pyramid-analyzer) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ishanoshada/geometry-pyramid-analyzer) ![GitHub Forks](https://img.shields.io/github/forks/Ishanoshada/geometry-pyramid-analyzer?style=social) ![GitHub Stars](https://img.shields.io/github/stars/Ishanoshada/geometry-pyramid-analyzer?style=social) ![GitHub Watchers](https://img.shields.io/github/watchers/Ishanoshada/geometry-pyramid-analyzer?style=social)
+
 This repository contains tools for calculating pyramid dimensions, randomly generating formulas using base lengths, height, and other geometric properties, and comparing these results against known constants like π (Pi). Both **Python** and **Go** implementations are available.
 
 # Table of Contents
