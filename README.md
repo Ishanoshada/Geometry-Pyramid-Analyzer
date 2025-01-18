@@ -81,6 +81,10 @@ geometry-pyramid-analysis/
 
 ## Special Calculations
 
+```
+The screenshots have been used and when showing the formula from github, it comes with an error
+```
+
 ![sp](/img/s1.png)
 
 ![sp2](/img/s2.png)
@@ -106,6 +110,7 @@ $$ \text{Actual Speed of Light} = 2.997924 \times 10^8 \, \text{m/s} $$
 
 $$ \text{Difference} = 0.000040 \, \text{ft/s} $$
 
+<br>
 This difference is small enough to indicate that the pyramid's dimensions, through this calculation, yield a close approximation to the actual speed of light.
 
 
