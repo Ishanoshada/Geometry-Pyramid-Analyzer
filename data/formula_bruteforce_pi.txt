@@ -1,0 +1,3951 @@
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) + base_length_north / height
+Lengths Used: base_length_east, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) + base_length_north * apothem / height / edge
+Lengths Used: base_length_east, half_base, base_length_north, apothem, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / height
+Lengths Used: base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north * base_length_east / height / half_base
+Lengths Used: base_length_north, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / height
+Lengths Used: base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sqrt(base_length_east / half_base) / height * diagonal_base)
+Lengths Used: base_length_east, half_base, apothem, height, diagonal_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(edge - apothem + base_length_east) + base_length_north / height
+Lengths Used: edge, apothem, base_length_east, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east) / height
+Lengths Used: base_length_north, base_length_east, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / height / half_base * base_length_east
+Lengths Used: base_length_north, height, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east + base_length_north / height))
+Lengths Used: base_length_east, base_length_north, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north / height)
+Lengths Used: base_length_east, base_length_north, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(edge) + base_length_north + base_length_east / height)
+Lengths Used: edge, half_base, base_length_north, base_length_east, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem) * half_base + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: sqrt_37
+Calculated Value: 6.082766
+Actual Value: 6.082763
+Difference: 0.000004
+Formula Used: log(sqrt(base_length_north - height * apothem - edge))
+Lengths Used: base_length_north, height, apothem, edge, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) + base_length_east / height
+Lengths Used: base_length_north, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north) / height
+Lengths Used: base_length_east, base_length_north, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north * base_length_east / half_base / height
+Lengths Used: base_length_north, base_length_east, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / half_base * base_length_east / height
+Lengths Used: base_length_north, half_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) / half_base / height * base_length_north
+Lengths Used: base_length_east, apothem, half_base, height, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / height * base_length_north / half_base
+Lengths Used: base_length_east, height, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem ** half_base ** diagonal_base + base_length_east + base_length_north / height
+Lengths Used: apothem, half_base, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / half_base / edge * apothem * base_length_east / height
+Lengths Used: base_length_north, half_base, edge, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / half_base / height * base_length_north
+Lengths Used: base_length_east, half_base, height, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: diagonal_base ** apothem ** half_base + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, apothem, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east / height)
+Lengths Used: base_length_north, base_length_east, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north)) / height * base_length_east / half_base
+Lengths Used: base_length_north, diagonal_base, apothem, height, base_length_east, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge * base_length_north / apothem + base_length_east / height
+Lengths Used: edge, base_length_north, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(exp(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * base_length_north / height / half_base
+Lengths Used: base_length_east, base_length_north, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / half_base * base_length_north / height
+Lengths Used: base_length_east, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(cos(diagonal_base)) + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(diagonal_base) - base_length_north - base_length_east / height)
+Lengths Used: diagonal_base, apothem, base_length_north, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / height)) * base_length_north / half_base
+Lengths Used: base_length_east, height, diagonal_base, apothem, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(base_length_east / half_base / height) * base_length_north
+Lengths Used: base_length_east, half_base, height, apothem, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north)) + base_length_east / height
+Lengths Used: base_length_north, apothem, diagonal_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / edge * apothem + base_length_north / height
+Lengths Used: base_length_east, half_base, edge, apothem, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north * base_length_east / half_base * apothem / edge / height
+Lengths Used: base_length_north, base_length_east, half_base, apothem, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / half_base / height * base_length_east
+Lengths Used: base_length_north, half_base, height, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / height * base_length_north / half_base)
+Lengths Used: base_length_east, height, base_length_north, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base) ** apothem + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / height + edge - apothem
+Lengths Used: base_length_north, base_length_east, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_north + base_length_east / height))
+Lengths Used: base_length_north, base_length_east, height, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_north)) + base_length_east / height
+Lengths Used: base_length_north, diagonal_base, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(edge) + base_length_east + base_length_north / height
+Lengths Used: edge, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east * base_length_north / half_base / height)
+Lengths Used: base_length_east, base_length_north, half_base, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_east / height / half_base) ** base_length_north)
+Lengths Used: base_length_east, height, half_base, edge, base_length_north, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east + base_length_north) / height)
+Lengths Used: base_length_east, base_length_north, diagonal_base, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) / height * base_length_east / half_base
+Lengths Used: base_length_north, apothem, height, base_length_east, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(diagonal_base) - base_length_east - base_length_north) / height
+Lengths Used: diagonal_base, half_base, base_length_east, base_length_north, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / height / half_base * base_length_north
+Lengths Used: base_length_east, height, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(cos(diagonal_base)) + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(abs(exp(base_length_east + base_length_north / height)))
+Lengths Used: base_length_east, base_length_north, height, edge, half_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(tan(diagonal_base)) * base_length_east + base_length_north / height
+Lengths Used: diagonal_base, half_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_north + base_length_east / height))
+Lengths Used: base_length_north, base_length_east, height, half_base, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_east)) + base_length_north / height
+Lengths Used: base_length_east, edge, diagonal_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + edge + base_length_east - apothem / height)
+Lengths Used: base_length_north, edge, base_length_east, apothem, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north * base_length_east) / half_base / height
+Lengths Used: base_length_north, base_length_east, diagonal_base, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base * half_base) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / height * base_length_east / half_base
+Lengths Used: base_length_north, height, base_length_east, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(sin(diagonal_base)) * base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(edge) + base_length_north + base_length_east / height
+Lengths Used: edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * base_length_north / half_base / height
+Lengths Used: base_length_east, base_length_north, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east) + base_length_north) / height
+Lengths Used: base_length_east, apothem, base_length_north, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(base_length_north / half_base / height) * base_length_east
+Lengths Used: base_length_north, half_base, height, apothem, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east) + base_length_north / height)
+Lengths Used: base_length_east, apothem, half_base, base_length_north, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge) + base_length_east + base_length_north / height
+Lengths Used: edge, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east - edge + apothem + base_length_north / height
+Lengths Used: base_length_east, edge, apothem, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north + base_length_east)) / height
+Lengths Used: base_length_north, base_length_east, edge, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * base_length_north / height / half_base - apothem + edge
+Lengths Used: base_length_east, base_length_north, height, half_base, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / height * base_length_east / half_base)
+Lengths Used: base_length_north, height, base_length_east, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(base_length_east / half_base) / height * diagonal_base
+Lengths Used: base_length_east, half_base, base_length_north, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(half_base) + base_length_east + base_length_north / height
+Lengths Used: half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north) + base_length_east) / height
+Lengths Used: base_length_north, edge, base_length_east, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(half_base) - base_length_north) + base_length_east / height
+Lengths Used: half_base, apothem, base_length_north, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(abs(apothem)) + base_length_north + base_length_east / height
+Lengths Used: apothem, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / height * apothem / edge
+Lengths Used: base_length_north, base_length_east, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) + base_length_north * base_length_east / half_base / height
+Lengths Used: diagonal_base, edge, base_length_north, base_length_east, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(sin(diagonal_base)) * base_length_east + base_length_north / height
+Lengths Used: diagonal_base, half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(diagonal_base) - base_length_east - base_length_north / height)
+Lengths Used: diagonal_base, half_base, base_length_east, base_length_north, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(abs(base_length_east + base_length_north) / height))
+Lengths Used: base_length_east, base_length_north, apothem, height, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east * apothem) / edge + base_length_north / height
+Lengths Used: base_length_east, apothem, half_base, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(apothem) + base_length_north + base_length_east / height
+Lengths Used: apothem, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(edge) + base_length_east) + base_length_north / height
+Lengths Used: edge, diagonal_base, base_length_east, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) + base_length_east / height + apothem - edge
+Lengths Used: base_length_north, diagonal_base, base_length_east, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge) + base_length_north * base_length_east / height / half_base
+Lengths Used: edge, diagonal_base, base_length_north, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_east + base_length_north / height))
+Lengths Used: base_length_east, base_length_north, height, diagonal_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north) + base_length_east / height)
+Lengths Used: base_length_north, apothem, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_north) + base_length_east)) / height
+Lengths Used: base_length_north, edge, base_length_east, half_base, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(cos(half_base)) + base_length_east + base_length_north / height
+Lengths Used: half_base, apothem, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(cos(half_base)) * base_length_north + base_length_east / height
+Lengths Used: half_base, apothem, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(half_base) + base_length_north + base_length_east / height
+Lengths Used: half_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(half_base) + base_length_north + base_length_east) / height
+Lengths Used: half_base, diagonal_base, base_length_north, base_length_east, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(cos(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) + base_length_north * base_length_east / height / half_base
+Lengths Used: diagonal_base, apothem, base_length_north, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / height) * base_length_north / half_base
+Lengths Used: base_length_east, height, edge, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_east)) + base_length_north / height)
+Lengths Used: base_length_east, diagonal_base, half_base, base_length_north, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east) / height * apothem / edge
+Lengths Used: base_length_north, base_length_east, half_base, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east - apothem + edge / height
+Lengths Used: base_length_north, base_length_east, apothem, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(half_base - diagonal_base) + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) / height / half_base * base_length_east
+Lengths Used: base_length_north, diagonal_base, height, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / half_base * base_length_east / height)
+Lengths Used: base_length_north, half_base, base_length_east, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) * base_length_north / height / half_base
+Lengths Used: base_length_east, diagonal_base, base_length_north, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge - apothem) + base_length_east + base_length_north / height
+Lengths Used: edge, apothem, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(edge) - base_length_north - base_length_east) / height
+Lengths Used: edge, apothem, base_length_north, base_length_east, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(abs(base_length_north / height / half_base)) * base_length_east
+Lengths Used: base_length_north, height, half_base, diagonal_base, edge, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(apothem - half_base) + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) / height / half_base * base_length_north
+Lengths Used: base_length_east, diagonal_base, height, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / height * edge / apothem
+Lengths Used: base_length_east, base_length_north, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: abs(sin(base_length_north / height / half_base)) * base_length_east
+Lengths Used: base_length_north, height, half_base, apothem, edge, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141598
+Actual Value: 3.141593
+Difference: 0.000005
+Formula Used: apothem / half_base / edge + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) * base_length_north / half_base / height
+Lengths Used: base_length_east, edge, base_length_north, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(sin(edge)) + base_length_north + base_length_east / height
+Lengths Used: edge, apothem, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_east / height / half_base * base_length_north))
+Lengths Used: base_length_east, height, half_base, base_length_north, edge, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem + diagonal_base) + base_length_east + base_length_north / height
+Lengths Used: apothem, diagonal_base, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(cos(diagonal_base)) * base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / half_base * base_length_north / height)
+Lengths Used: base_length_east, half_base, base_length_north, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / edge / height * apothem
+Lengths Used: base_length_east, half_base, base_length_north, edge, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(base_length_east / half_base) * diagonal_base / height
+Lengths Used: base_length_east, half_base, edge, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + edge - apothem + base_length_east / height
+Lengths Used: base_length_north, edge, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: sqrt_3
+Calculated Value: 1.732052
+Actual Value: 1.732051
+Difference: 0.000001
+Formula Used: exp(cos(sin(exp(half_base / diagonal_base))))
+Lengths Used: half_base, diagonal_base, apothem, base_length_east, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east + base_length_north)) / height
+Lengths Used: base_length_east, base_length_north, half_base, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_north))) + base_length_east / height
+Lengths Used: base_length_north, apothem, diagonal_base, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north * base_length_east / half_base) / height
+Lengths Used: base_length_north, base_length_east, half_base, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(apothem) - base_length_east - base_length_north) / height
+Lengths Used: apothem, diagonal_base, base_length_east, base_length_north, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / height - apothem + edge
+Lengths Used: base_length_east, base_length_north, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(abs(log(base_length_east + base_length_north / height)))
+Lengths Used: base_length_east, base_length_north, height, diagonal_base, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(tan(half_base)) + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_east + base_length_north)) / height
+Lengths Used: base_length_east, base_length_north, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(abs(base_length_north))) + base_length_east / height
+Lengths Used: base_length_north, diagonal_base, apothem, half_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_east + base_length_north / height))
+Lengths Used: base_length_east, base_length_north, height, diagonal_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east * base_length_north) / half_base / height
+Lengths Used: base_length_east, base_length_north, edge, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east + edge - apothem / height
+Lengths Used: base_length_north, half_base, base_length_east, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sqrt(base_length_north / half_base) / height) * diagonal_base
+Lengths Used: base_length_north, half_base, apothem, height, base_length_east, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge - apothem + base_length_north + base_length_east / height
+Lengths Used: edge, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) / height * base_length_north / half_base
+Lengths Used: base_length_east, edge, height, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(sin(diagonal_base)) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east)) + base_length_north / height
+Lengths Used: base_length_east, apothem, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_east) + base_length_north)) / height
+Lengths Used: base_length_east, edge, base_length_north, half_base, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge / apothem / height * base_length_east * base_length_north / half_base
+Lengths Used: edge, apothem, height, base_length_east, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base) + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(half_base) + base_length_north + base_length_east / height
+Lengths Used: half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north + base_length_east) / height)
+Lengths Used: base_length_north, base_length_east, half_base, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(diagonal_base) + base_length_east + base_length_north / height)
+Lengths Used: diagonal_base, edge, base_length_east, base_length_north, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north + edge - apothem / height
+Lengths Used: base_length_east, base_length_north, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east) / height + apothem - edge
+Lengths Used: base_length_north, base_length_east, half_base, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / height) / half_base) * base_length_north
+Lengths Used: base_length_east, height, apothem, half_base, diagonal_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(tan(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(apothem) + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east * base_length_north) / half_base / height)
+Lengths Used: base_length_east, base_length_north, edge, half_base, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge * base_length_east / apothem + base_length_north / height
+Lengths Used: edge, base_length_east, apothem, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / height / apothem * edge
+Lengths Used: base_length_east, base_length_north, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / height / edge * apothem / half_base * base_length_north
+Lengths Used: base_length_east, height, edge, apothem, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge) + base_length_east / half_base / height * base_length_north
+Lengths Used: edge, apothem, base_length_east, half_base, height, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(cos(apothem)) + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_east / height)) * base_length_north / half_base
+Lengths Used: base_length_east, height, edge, diagonal_base, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_east * base_length_north / half_base)) / height
+Lengths Used: base_length_east, base_length_north, half_base, apothem, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * edge * base_length_north / apothem / height / half_base
+Lengths Used: base_length_east, edge, base_length_north, apothem, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north - apothem + base_length_east + edge / height
+Lengths Used: base_length_north, apothem, base_length_east, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(apothem) * half_base + base_length_east + base_length_north / height
+Lengths Used: apothem, diagonal_base, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * apothem / edge + base_length_north / height
+Lengths Used: base_length_east, apothem, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(apothem - edge) + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(apothem - base_length_north - edge - base_length_east / height)
+Lengths Used: apothem, base_length_north, edge, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(sin(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(half_base) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / half_base) / height * base_length_north
+Lengths Used: base_length_east, half_base, diagonal_base, height, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / height / edge * apothem
+Lengths Used: base_length_north, base_length_east, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(apothem) + base_length_east + base_length_north / height
+Lengths Used: apothem, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: abs(sin(base_length_east / half_base / height) * base_length_north)
+Lengths Used: base_length_east, half_base, height, diagonal_base, base_length_north, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(tan(edge)) * base_length_north + base_length_east / height
+Lengths Used: edge, half_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_north + base_length_east)) / height
+Lengths Used: base_length_north, base_length_east, apothem, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(edge * diagonal_base) + base_length_east + base_length_north / height
+Lengths Used: edge, diagonal_base, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north * base_length_east) / height / half_base
+Lengths Used: base_length_north, base_length_east, edge, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(edge) + base_length_north + base_length_east / height
+Lengths Used: edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(exp(diagonal_base)) + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge ** apothem) + base_length_north + base_length_east / height
+Lengths Used: edge, apothem, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(tan(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, apothem, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(half_base)) + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north - apothem + edge / height
+Lengths Used: base_length_east, base_length_north, apothem, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_north)) + base_length_east / height)
+Lengths Used: base_length_north, apothem, diagonal_base, base_length_east, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / height - edge + apothem
+Lengths Used: base_length_east, base_length_north, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / edge * apothem / height
+Lengths Used: base_length_east, base_length_north, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(apothem) + base_length_north + base_length_east) / height
+Lengths Used: apothem, half_base, base_length_north, base_length_east, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(abs(log(base_length_north + base_length_east))) / height
+Lengths Used: base_length_north, base_length_east, edge, half_base, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(tan(apothem)) + base_length_east + base_length_north / height
+Lengths Used: apothem, half_base, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / half_base) / height * base_length_east
+Lengths Used: base_length_north, half_base, diagonal_base, height, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_north / height / half_base) ** base_length_east)
+Lengths Used: base_length_north, height, half_base, apothem, base_length_east, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north + base_length_east / height))
+Lengths Used: base_length_north, base_length_east, height, diagonal_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(base_length_east / height / half_base) * base_length_north
+Lengths Used: base_length_east, height, half_base, edge, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(abs(diagonal_base)) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / height / half_base)) * base_length_north
+Lengths Used: base_length_east, height, half_base, diagonal_base, apothem, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge / half_base / height * base_length_north / apothem * base_length_east
+Lengths Used: edge, half_base, height, base_length_north, apothem, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base - edge) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, edge, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(edge) - base_length_east - base_length_north) / height
+Lengths Used: edge, apothem, base_length_east, base_length_north, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / half_base - apothem + edge / height * base_length_north
+Lengths Used: base_length_east, half_base, apothem, edge, height, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge + base_length_north - apothem + base_length_east / height
+Lengths Used: edge, base_length_north, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(apothem - half_base) + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / half_base) * base_length_east / height
+Lengths Used: base_length_north, half_base, diagonal_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(apothem) + base_length_east) + base_length_north / height
+Lengths Used: apothem, edge, base_length_east, diagonal_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north * base_length_east / height / half_base)
+Lengths Used: base_length_north, base_length_east, height, half_base, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(half_base - edge) + base_length_north + base_length_east / height
+Lengths Used: half_base, edge, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east + apothem - edge / height)
+Lengths Used: base_length_north, base_length_east, apothem, edge, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / apothem / height * edge
+Lengths Used: base_length_east, base_length_north, apothem, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + edge + base_length_north) - apothem / height
+Lengths Used: base_length_east, edge, base_length_north, diagonal_base, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(exp(apothem)) + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / half_base) * base_length_north / height)
+Lengths Used: base_length_east, half_base, diagonal_base, base_length_north, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem * base_length_east / height / half_base * base_length_north / edge
+Lengths Used: apothem, base_length_east, height, half_base, base_length_north, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / half_base * edge / apothem / height * base_length_north
+Lengths Used: base_length_east, half_base, edge, apothem, height, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / edge / half_base * base_length_north / height * apothem
+Lengths Used: base_length_east, edge, half_base, base_length_north, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(sin(apothem)) + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east) / half_base * base_length_north / height
+Lengths Used: base_length_east, edge, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(half_base - edge) + base_length_east + base_length_north / height
+Lengths Used: half_base, edge, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem) + base_length_north + base_length_east / height
+Lengths Used: apothem, diagonal_base, base_length_north, base_length_east, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(half_base) + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(edge) - base_length_east - base_length_north / height)
+Lengths Used: edge, half_base, base_length_east, base_length_north, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east * base_length_north) / height / half_base
+Lengths Used: base_length_east, base_length_north, edge, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_east))) + base_length_north / height
+Lengths Used: base_length_east, diagonal_base, half_base, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(edge - base_length_north - apothem - base_length_east / height)
+Lengths Used: edge, base_length_north, apothem, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north * base_length_east / height) / half_base
+Lengths Used: base_length_north, base_length_east, height, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / half_base / height) * base_length_east
+Lengths Used: base_length_north, half_base, height, diagonal_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(cos(edge)) + base_length_east + base_length_north / height
+Lengths Used: edge, diagonal_base, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(edge * half_base) + base_length_east + base_length_north / height
+Lengths Used: edge, half_base, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east) - edge + apothem / height
+Lengths Used: base_length_north, base_length_east, half_base, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(edge) - base_length_east) + base_length_north / height
+Lengths Used: edge, diagonal_base, base_length_east, apothem, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge * base_length_north / apothem * base_length_east / half_base / height
+Lengths Used: edge, base_length_north, apothem, base_length_east, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + apothem + base_length_north) - edge / height
+Lengths Used: base_length_east, apothem, base_length_north, half_base, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) ** edge + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, half_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(edge - apothem) * base_length_north + base_length_east / height
+Lengths Used: edge, apothem, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east * base_length_north / half_base) / height
+Lengths Used: base_length_east, base_length_north, half_base, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + apothem) + base_length_east - edge / height
+Lengths Used: base_length_north, apothem, diagonal_base, base_length_east, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_east / half_base)) * base_length_north / height
+Lengths Used: base_length_east, half_base, edge, diagonal_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_north + base_length_east / height)))
+Lengths Used: base_length_north, base_length_east, height, edge, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge) ** half_base + base_length_north + base_length_east / height
+Lengths Used: edge, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(log(exp(base_length_east + base_length_north / height)))
+Lengths Used: base_length_east, base_length_north, height, diagonal_base, half_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge + base_length_north + base_length_east - apothem / height
+Lengths Used: edge, base_length_north, base_length_east, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / height / half_base) * base_length_east
+Lengths Used: base_length_north, height, half_base, diagonal_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge + diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: edge, diagonal_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(apothem) + base_length_east / height * base_length_north / half_base
+Lengths Used: apothem, diagonal_base, base_length_east, height, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north * base_length_east / half_base / height - edge + apothem
+Lengths Used: base_length_north, base_length_east, half_base, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(apothem) + base_length_east + base_length_north / height
+Lengths Used: apothem, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / height / half_base * base_length_north * apothem / edge
+Lengths Used: base_length_east, height, half_base, base_length_north, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north) / half_base * base_length_east) / height
+Lengths Used: base_length_north, diagonal_base, half_base, base_length_east, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north / height) / half_base * base_length_east)
+Lengths Used: base_length_north, height, edge, half_base, base_length_east, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / height * base_length_east) / half_base
+Lengths Used: base_length_north, height, base_length_east, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(edge) - base_length_east - base_length_north / height)
+Lengths Used: edge, diagonal_base, base_length_east, base_length_north, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + apothem - edge + base_length_east / height
+Lengths Used: base_length_north, apothem, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: half_base ** diagonal_base ** apothem + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base) / apothem + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * apothem / height * base_length_north / half_base / edge
+Lengths Used: base_length_east, apothem, height, base_length_north, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141601
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(tan(base_length_north / half_base / height)) * base_length_east
+Lengths Used: base_length_north, half_base, height, diagonal_base, apothem, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(half_base) + base_length_east + base_length_north / height
+Lengths Used: half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem * base_length_east / edge + base_length_north / height
+Lengths Used: apothem, base_length_east, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north / height) / edge * apothem
+Lengths Used: base_length_east, base_length_north, height, half_base, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge ** diagonal_base ** half_base + base_length_north + base_length_east / height
+Lengths Used: edge, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / height / half_base / apothem * edge * base_length_east
+Lengths Used: base_length_north, height, half_base, apothem, edge, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(sin(edge)) + base_length_east + base_length_north / height
+Lengths Used: edge, half_base, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / half_base * base_length_north / height))
+Lengths Used: base_length_east, half_base, base_length_north, height, edge, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(abs(base_length_north / half_base) / height) * base_length_east
+Lengths Used: base_length_north, half_base, edge, height, diagonal_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge) + base_length_north + base_length_east / height
+Lengths Used: edge, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(abs(base_length_east))) + base_length_north / height
+Lengths Used: base_length_east, half_base, apothem, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_east) + base_length_north / height))
+Lengths Used: base_length_east, diagonal_base, base_length_north, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(sin(edge)) * base_length_east + base_length_north / height
+Lengths Used: edge, diagonal_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / half_base / height) * base_length_north
+Lengths Used: base_length_east, half_base, height, edge, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(diagonal_base) - base_length_north - base_length_east) / height
+Lengths Used: diagonal_base, edge, base_length_north, base_length_east, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / edge * base_length_east * apothem / half_base / height
+Lengths Used: base_length_north, edge, base_length_east, apothem, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(apothem) ** diagonal_base + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_north)) + base_length_east) / height
+Lengths Used: base_length_north, apothem, edge, base_length_east, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem / diagonal_base ** edge + base_length_east + base_length_north / height
+Lengths Used: apothem, diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge + base_length_east + base_length_north - apothem / height
+Lengths Used: edge, base_length_east, base_length_north, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(edge) + base_length_north + base_length_east / height)
+Lengths Used: edge, apothem, base_length_north, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north / height + apothem) - edge
+Lengths Used: base_length_east, base_length_north, height, apothem, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / half_base + apothem - edge * base_length_east / height
+Lengths Used: base_length_north, half_base, apothem, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / half_base / height * base_length_east)
+Lengths Used: base_length_north, half_base, height, base_length_east, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sqrt(base_length_east / half_base) * diagonal_base) / height
+Lengths Used: base_length_east, half_base, apothem, diagonal_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(diagonal_base) - base_length_north - base_length_east) / height
+Lengths Used: diagonal_base, half_base, base_length_north, base_length_east, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_north + base_length_east) / height))
+Lengths Used: base_length_north, base_length_east, apothem, height, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / half_base / height * base_length_north)
+Lengths Used: base_length_east, half_base, height, base_length_north, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east - edge + apothem / height
+Lengths Used: base_length_north, base_length_east, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east / height) * apothem / edge
+Lengths Used: base_length_north, base_length_east, height, diagonal_base, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) * base_length_east / height / half_base
+Lengths Used: base_length_north, diagonal_base, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(abs(half_base)) + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) / half_base / height * base_length_east
+Lengths Used: base_length_north, diagonal_base, half_base, height, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north / height + edge - apothem
+Lengths Used: base_length_east, half_base, base_length_north, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(apothem) - base_length_east - base_length_north) / height
+Lengths Used: apothem, half_base, base_length_east, base_length_north, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_north + base_length_east))) / height
+Lengths Used: base_length_north, base_length_east, diagonal_base, apothem, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(abs(base_length_north) + base_length_east / height))
+Lengths Used: base_length_north, diagonal_base, base_length_east, height, half_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north)) / half_base / height * base_length_east
+Lengths Used: base_length_north, apothem, diagonal_base, half_base, height, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge ** half_base) + base_length_east + base_length_north / height
+Lengths Used: edge, half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north) * base_length_east / half_base / height
+Lengths Used: base_length_north, edge, base_length_east, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(tan(apothem)) + base_length_east + base_length_north / height
+Lengths Used: apothem, half_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem * base_length_north / edge + base_length_east / height
+Lengths Used: apothem, base_length_north, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(half_base) - base_length_north - base_length_east / height)
+Lengths Used: half_base, diagonal_base, base_length_north, base_length_east, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / height) / half_base * base_length_east
+Lengths Used: base_length_north, height, diagonal_base, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem ** edge) + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / apothem / height * edge * base_length_east / half_base
+Lengths Used: base_length_north, apothem, height, edge, base_length_east, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) + base_length_east / height / half_base * base_length_north
+Lengths Used: diagonal_base, apothem, base_length_east, height, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(edge) + base_length_east + base_length_north / height
+Lengths Used: edge, diagonal_base, base_length_east, base_length_north, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(abs(edge)) + base_length_east + base_length_north / height
+Lengths Used: edge, half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(half_base - diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / height) * base_length_north / half_base)
+Lengths Used: base_length_east, height, apothem, base_length_north, half_base, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north - edge + apothem / height
+Lengths Used: base_length_east, base_length_north, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / height * base_length_north) / half_base
+Lengths Used: base_length_east, height, base_length_north, apothem, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north / half_base)) / height * base_length_east
+Lengths Used: base_length_north, half_base, edge, diagonal_base, height, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem / edge * base_length_north + base_length_east / height
+Lengths Used: apothem, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(diagonal_base) + base_length_north + base_length_east) / height
+Lengths Used: diagonal_base, half_base, base_length_north, base_length_east, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north) / half_base * base_length_east / height)
+Lengths Used: base_length_north, apothem, half_base, base_length_east, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / half_base * base_length_north) / height
+Lengths Used: base_length_east, half_base, base_length_north, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north - apothem + edge + base_length_east / height
+Lengths Used: base_length_north, apothem, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / height / half_base * base_length_east)
+Lengths Used: base_length_north, height, half_base, base_length_east, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / height * edge / half_base * base_length_north / apothem
+Lengths Used: base_length_east, height, edge, half_base, base_length_north, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(apothem) - base_length_east - base_length_north / height)
+Lengths Used: apothem, edge, base_length_east, base_length_north, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(edge) + base_length_north) + base_length_east / height
+Lengths Used: edge, diagonal_base, base_length_north, half_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / apothem / half_base * edge * base_length_east / height
+Lengths Used: base_length_north, apothem, half_base, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(apothem - base_length_east) + base_length_north + edge / height
+Lengths Used: apothem, base_length_east, half_base, base_length_north, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * edge / apothem * base_length_north / half_base / height
+Lengths Used: base_length_east, edge, apothem, base_length_north, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_east))) + base_length_north / height
+Lengths Used: base_length_east, diagonal_base, edge, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(base_length_north / height / half_base) * base_length_east
+Lengths Used: base_length_north, height, half_base, edge, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north * edge / apothem) / height
+Lengths Used: base_length_east, base_length_north, edge, apothem, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east) / height / half_base) * base_length_north
+Lengths Used: base_length_east, apothem, height, half_base, diagonal_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(edge) ** half_base + base_length_east + base_length_north / height
+Lengths Used: edge, apothem, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem * base_length_north / edge / height / half_base * base_length_east
+Lengths Used: apothem, base_length_north, edge, height, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(exp(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, apothem, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem / edge * base_length_east + base_length_north / height
+Lengths Used: apothem, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + edge - apothem) + base_length_east / height
+Lengths Used: base_length_north, edge, apothem, diagonal_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + base_length_north * edge / apothem / height
+Lengths Used: base_length_east, base_length_north, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem + base_length_east - edge + base_length_north / height
+Lengths Used: apothem, base_length_east, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + edge - apothem) + base_length_north / height
+Lengths Used: base_length_east, edge, apothem, diagonal_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(cos(half_base)) + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem - diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: apothem, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(apothem) - base_length_north - base_length_east) / height
+Lengths Used: apothem, diagonal_base, base_length_north, base_length_east, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north / apothem * edge / height)
+Lengths Used: base_length_east, base_length_north, apothem, edge, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + base_length_north - apothem + edge / height)
+Lengths Used: base_length_east, base_length_north, apothem, edge, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(exp(diagonal_base)) + base_length_north + base_length_east / height
+Lengths Used: diagonal_base, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: sqrt_5
+Calculated Value: 2.236073
+Actual Value: 2.236068
+Difference: 0.000005
+Formula Used: tan(height / diagonal_base) + base_length_north + apothem / edge
+Lengths Used: height, diagonal_base, base_length_east, base_length_north, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem / diagonal_base ** half_base + base_length_north + base_length_east / height
+Lengths Used: apothem, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: half_base ** diagonal_base ** edge + base_length_east + base_length_north / height
+Lengths Used: half_base, diagonal_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(half_base) - base_length_east - base_length_north) / height
+Lengths Used: half_base, diagonal_base, base_length_east, base_length_north, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(tan(edge)) * base_length_east + base_length_north / height
+Lengths Used: edge, apothem, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(abs(base_length_north) + base_length_east / height))
+Lengths Used: base_length_north, diagonal_base, base_length_east, height, apothem, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(sin(apothem)) * base_length_east + base_length_north / height
+Lengths Used: apothem, half_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(half_base ** edge) + base_length_north + base_length_east / height
+Lengths Used: half_base, edge, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_north * base_length_east / half_base / height))
+Lengths Used: base_length_north, base_length_east, half_base, height, diagonal_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north * base_length_east / height)) / half_base
+Lengths Used: base_length_north, base_length_east, height, edge, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / height - edge + apothem
+Lengths Used: base_length_north, base_length_east, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(apothem / edge) * base_length_north + base_length_east / height
+Lengths Used: apothem, edge, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(base_length_north / half_base) / height * diagonal_base
+Lengths Used: base_length_north, half_base, base_length_east, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(diagonal_base) + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem) * edge + base_length_east + base_length_north / height
+Lengths Used: apothem, half_base, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(diagonal_base) - base_length_east - base_length_north / height)
+Lengths Used: diagonal_base, half_base, base_length_east, base_length_north, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / apothem * base_length_east * edge / half_base / height
+Lengths Used: base_length_north, apothem, base_length_east, edge, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east * base_length_north / height) / half_base
+Lengths Used: base_length_east, base_length_north, height, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(half_base) - base_length_north - base_length_east / height)
+Lengths Used: half_base, apothem, base_length_north, base_length_east, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(apothem) - base_length_north - base_length_east / height)
+Lengths Used: apothem, diagonal_base, base_length_north, base_length_east, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(abs(half_base)) + base_length_north + base_length_east / height
+Lengths Used: half_base, apothem, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / apothem / height * edge
+Lengths Used: base_length_north, base_length_east, apothem, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(abs(base_length_north) + base_length_east)) / height
+Lengths Used: base_length_north, edge, base_length_east, half_base, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / height * base_length_north)) / half_base
+Lengths Used: base_length_east, height, base_length_north, apothem, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east - apothem + base_length_north + edge / height
+Lengths Used: base_length_east, apothem, base_length_north, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(edge) * half_base + base_length_north + base_length_east / height
+Lengths Used: edge, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(half_base) - base_length_east - base_length_north) / height
+Lengths Used: half_base, apothem, base_length_east, base_length_north, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge * base_length_north / height * base_length_east / half_base / apothem
+Lengths Used: edge, base_length_north, height, base_length_east, half_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north / half_base / height)) * base_length_east
+Lengths Used: base_length_north, half_base, height, apothem, diagonal_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_east + base_length_north))) / height
+Lengths Used: base_length_east, base_length_north, half_base, diagonal_base, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_north + base_length_east))) / height
+Lengths Used: base_length_north, base_length_east, apothem, diagonal_base, half_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) * half_base + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(abs(base_length_east) + base_length_north / height))
+Lengths Used: base_length_east, diagonal_base, base_length_north, height, half_base, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141601
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: tan(sqrt(base_length_north / half_base) / height) * diagonal_base
+Lengths Used: base_length_north, half_base, base_length_east, height, edge, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north / half_base * base_length_east) / height
+Lengths Used: base_length_north, half_base, base_length_east, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge - apothem * half_base + base_length_north + base_length_east / height
+Lengths Used: edge, apothem, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: sqrt_5
+Calculated Value: 2.236062
+Actual Value: 2.236068
+Difference: 0.000006
+Formula Used: log(half_base + base_length_north + apothem) + diagonal_base / height
+Lengths Used: half_base, base_length_north, apothem, edge, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north) / half_base / height * base_length_east)
+Lengths Used: base_length_north, diagonal_base, half_base, height, base_length_east, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(apothem) - base_length_east - base_length_north / height)
+Lengths Used: apothem, half_base, base_length_east, base_length_north, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(tan(edge)) + base_length_north + base_length_east / height
+Lengths Used: edge, diagonal_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem / edge * base_length_east / half_base * base_length_north / height
+Lengths Used: apothem, edge, base_length_east, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(apothem / edge) * base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north / height)) / half_base * base_length_east
+Lengths Used: base_length_north, height, edge, apothem, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north * base_length_east / edge / height / half_base * apothem
+Lengths Used: base_length_north, base_length_east, edge, height, half_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / apothem * edge + base_length_north / height
+Lengths Used: base_length_east, apothem, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge + base_length_east - apothem + base_length_north / height
+Lengths Used: edge, base_length_east, apothem, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(sin(diagonal_base)) * base_length_north + base_length_east / height
+Lengths Used: diagonal_base, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_east)) + base_length_north) / height
+Lengths Used: base_length_east, edge, half_base, base_length_north, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(tan(edge) - base_length_north) + base_length_east / height
+Lengths Used: edge, diagonal_base, base_length_north, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141588
+Actual Value: 3.141593
+Difference: 0.000005
+Formula Used: log(sqrt(sqrt(apothem - half_base * diagonal_base)))
+Lengths Used: apothem, half_base, diagonal_base, height, base_length_north, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: apothem + base_length_east - edge / height / half_base * base_length_north
+Lengths Used: apothem, base_length_east, edge, height, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east / half_base) * base_length_north / height
+Lengths Used: base_length_east, half_base, edge, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east) + edge - apothem / height
+Lengths Used: base_length_north, base_length_east, diagonal_base, edge, apothem, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / edge * apothem + base_length_east / height
+Lengths Used: base_length_north, edge, apothem, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(diagonal_base) + base_length_east + base_length_north / height)
+Lengths Used: diagonal_base, edge, base_length_east, base_length_north, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / edge * base_length_north / height * apothem / half_base
+Lengths Used: base_length_east, edge, base_length_north, height, apothem, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: tan(apothem) * edge + base_length_north + base_length_east / height
+Lengths Used: apothem, half_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(base_length_east / height * base_length_north / half_base))
+Lengths Used: base_length_east, height, base_length_north, half_base, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(half_base * edge) + base_length_north + base_length_east / height
+Lengths Used: half_base, edge, diagonal_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_north * base_length_east / height)) / half_base
+Lengths Used: base_length_north, base_length_east, height, edge, diagonal_base, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(diagonal_base) + base_length_east) + base_length_north / height
+Lengths Used: diagonal_base, apothem, base_length_east, half_base, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(exp(abs(base_length_north + base_length_east / height)))
+Lengths Used: base_length_north, base_length_east, height, edge, half_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_north) + base_length_east) / height)
+Lengths Used: base_length_north, diagonal_base, base_length_east, edge, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north / height)) * base_length_east / half_base
+Lengths Used: base_length_north, height, apothem, edge, base_length_east, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(abs(base_length_north) / half_base) / height * diagonal_base
+Lengths Used: base_length_north, edge, half_base, base_length_east, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(tan(edge)) * base_length_north + base_length_east / height
+Lengths Used: edge, half_base, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(log(base_length_east / height)) * base_length_north / half_base
+Lengths Used: base_length_east, height, edge, apothem, base_length_north, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(abs(log(base_length_north + base_length_east / height)))
+Lengths Used: base_length_north, base_length_east, height, edge, diagonal_base, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(sin(diagonal_base) - base_length_north) + base_length_east / height
+Lengths Used: diagonal_base, edge, base_length_north, half_base, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base) ** half_base + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, half_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(exp(log(base_length_east + base_length_north)) / height)
+Lengths Used: base_length_east, base_length_north, edge, half_base, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(apothem + diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: apothem, diagonal_base, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east / height)) / half_base * base_length_north
+Lengths Used: base_length_east, height, edge, apothem, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: log(sin(edge)) + base_length_east + base_length_north / height
+Lengths Used: edge, half_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east + apothem - edge / height / half_base * base_length_north
+Lengths Used: base_length_east, apothem, edge, height, half_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge / half_base / height * base_length_east / apothem * base_length_north
+Lengths Used: edge, half_base, height, base_length_east, apothem, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_east + edge + base_length_north - apothem) / height
+Lengths Used: base_length_east, edge, base_length_north, apothem, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(edge + base_length_east - apothem + base_length_north / height)
+Lengths Used: edge, base_length_east, apothem, base_length_north, height, diagonal_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east * apothem / edge * base_length_north / height / half_base
+Lengths Used: base_length_east, apothem, edge, base_length_north, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(half_base - diagonal_base) + base_length_north + base_length_east / height
+Lengths Used: half_base, diagonal_base, edge, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(diagonal_base) / apothem + base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(cos(half_base) + base_length_north + base_length_east) / height
+Lengths Used: half_base, diagonal_base, base_length_north, base_length_east, edge, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_east / half_base / height + edge - apothem * base_length_north
+Lengths Used: base_length_east, half_base, height, edge, apothem, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(abs(base_length_east / height / half_base)) * base_length_north
+Lengths Used: base_length_east, height, half_base, apothem, diagonal_base, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(abs(base_length_north))) + base_length_east / height
+Lengths Used: base_length_north, diagonal_base, apothem, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(edge) - apothem + base_length_east + base_length_north / height
+Lengths Used: edge, diagonal_base, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north + base_length_east / height - apothem + edge
+Lengths Used: base_length_north, base_length_east, height, apothem, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(cos(diagonal_base)) * base_length_east + base_length_north / height
+Lengths Used: diagonal_base, edge, apothem, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge * base_length_north / half_base * base_length_east / height / apothem
+Lengths Used: edge, base_length_north, half_base, base_length_east, height, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: half_base ** apothem ** edge + base_length_east + base_length_north / height
+Lengths Used: half_base, apothem, edge, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(apothem + edge) + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(abs(apothem)) + base_length_north + base_length_east / height
+Lengths Used: apothem, edge, half_base, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_north) / half_base) * base_length_east / height
+Lengths Used: base_length_north, apothem, half_base, edge, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east / height) + edge - apothem
+Lengths Used: base_length_north, base_length_east, height, half_base, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141585
+Actual Value: 3.141593
+Difference: 0.000008
+Formula Used: sin(abs(base_length_east / half_base) / height) * base_length_north
+Lengths Used: base_length_east, half_base, apothem, height, edge, base_length_north
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sqrt(base_length_north / half_base) * diagonal_base / height
+Lengths Used: base_length_north, half_base, apothem, diagonal_base, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: sin(diagonal_base) + base_length_north / height / half_base * base_length_east
+Lengths Used: diagonal_base, edge, base_length_north, height, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(base_length_north + base_length_east) / height / edge * apothem
+Lengths Used: base_length_north, base_length_east, half_base, height, edge, apothem
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: exp(tan(edge)) * base_length_east + base_length_north / height
+Lengths Used: edge, half_base, diagonal_base, base_length_east, base_length_north, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: cos(edge) + base_length_north * base_length_east / height / half_base
+Lengths Used: edge, diagonal_base, base_length_north, base_length_east, height, half_base
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: edge / apothem * base_length_north + base_length_east / height
+Lengths Used: edge, apothem, base_length_north, base_length_east, height
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: base_length_north / apothem * edge / height / half_base * base_length_east
+Lengths Used: base_length_north, apothem, edge, height, half_base, base_length_east
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(abs(base_length_east) * base_length_north / half_base / height)
+Lengths Used: base_length_east, diagonal_base, base_length_north, half_base, height, edge
+--------------------------------------------------
+
+Low Difference Found:
+Constant: pi
+Calculated Value: 3.141593
+Actual Value: 3.141593
+Difference: 0.000000
+Formula Used: abs(apothem - base_length_east) + edge + base_length_north / height
+Lengths Used: apothem, base_length_east, diagonal_base, edge, base_length_north, height
+--------------------------------------------------

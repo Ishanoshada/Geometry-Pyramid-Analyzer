@@ -1,0 +1,48 @@
+
+
+Low Difference Found:
+Constant: speed_of_light2
+Calculated Value: 2.997884
+Actual Value: 2.997924
+Difference: 0.000040
+Formula Used: sqrt(log(height)) * base_length_north - base_length_east / half_base
+Lengths Used: height, diagonal_base, apothem, base_length_north, base_length_east, half_base
+Length Values: height = 515.28000; diagonal_base = 1144.66446; apothem = 655.20651; base_length_north = 809.40000; base_length_east = 809.40000; half_base = 404.70000
+--------------------------------------------------
+
+
+IndentationError: unexpected indent
+>>> base_length_north = 809.40000; height = 515.28000; half_base = 404.70000; edge = 655.20
+651; diagonal_base = 1144.66446; apothem = 655.20651
+>>> log(abs(base_length_north / height * half_base - edge))
+np.float64(2.9706802028928556)
+>>> log(abs(half_base / height * base_length_east - apothem))
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'base_length_east' is not defined. Did you mean: 'base_length_north'?
+>>> half_base = 404.70000; height = 515.28000; base_length_east = 809.40000; apothem = 655.20651; diagonal_base = 1144.66446; base_length_north = 809.40000
+>>> log(abs(half_base / height * base_length_east - apothem))
+np.float64(2.9706802028928556)
+>>> log(sqrt(base_length_north - edge) / height * base_length_east)
+np.float64(2.9706869113727277)
+>>> log(log(log(log(diagonal_base))) * edge)
+np.float64(6.082773442896878)
+>>> sqrt(log(height)) * base_length_north - base_length_east / half_base
+np.float64(2020.643545140535)
+>>> sqrt(log(height)) * base_length_north - base_length_east / half_base
+np.float64(2020.643545140535)
+>>> sqrt(log(height)) * base_length_north - base_length_east / half_base
+np.float64(2020.643545140535)
+>>> sqrt(log(height)) * base_length_north - base_length_east / half_base
+np.float64(2020.643545140535)
+>>> sqrt(log(height)) * base_length_north - base_length_east / half_base
+np.float64(2020.643545140535)
+>>> sqrt(log(height))  / half_base
+np.float64(0.006174800752452649)
+>>> sqrt(log(height)) * (base_length_north - base_length_east / half_base)
+np.float64(2017.6456614114998)
+>>> sqrt(log(height)) * (base_length_north - base_length_east) / half_base
+np.float64(0.0)
+>>> (sqrt(log(height)) * base_length_north - base_length_east) / half_base
+np.float64(2.9978837290351743)
+
