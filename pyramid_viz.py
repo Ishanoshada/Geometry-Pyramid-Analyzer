@@ -7,9 +7,13 @@
 
 import numpy as np
 import math
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d.art3d import Poly3DCollection
+try:
 
+    import matplotlib.pyplot as plt
+    from mpl_toolkits.mplot3d.art3d import Poly3DCollection
+except:
+    print("Please install matplotlib and mpl_toolkits to run this script")
+    exit()
 
 def draw_spiral(phi):
     # Function to create radii using the golden ratio (Fibonacci-like sequence)
