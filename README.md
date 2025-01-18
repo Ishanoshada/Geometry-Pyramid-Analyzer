@@ -77,55 +77,13 @@ geometry-pyramid-analysis/
 - **Slope Angle**
 - **Apothem**: Calculated using the Pythagorean theorem.
 - **Edge**: Distance from peak to a corner of the base.
-- **Diagonal** (same as **CG**): Calculated using $$ \sqrt{2 \times (\text{{Base Length}})^2} $$
+- **Diagonal** (same as **CG**): Calculated using  sqrt{2Base Length^2}
 
 ## Special Calculations
 
-1. **Pi (π) Comparison**:  
-   $$ \frac{{\text{{North Base Length}} + \text{{Eastern Base Length}}}}{{\text{{Height}}}} \quad \text{{compared to }} \pi $$
+![sp](/img/s1.png)
 
-2. **Golden Ratio (φ) Comparison**:  
-   $$ \frac{{\text{{Edge}}}}{{\frac{{\text{{Base Length}}}}{2}}} \quad \text{{compared to }} \phi $$
-
-3. **Square Root of Golden Ratio (√φ) Comparison**:  
-   $$ \frac{{\text{{Apothem}}}}{{\text{{Height}}}} \quad \text{{compared to }} \sqrt{\phi} $$
-
-4. **CG and Base Length Comparison**:  
-   $$ \frac{{\text{{CG}}}}{{\text{{Base Length}}}} \quad \text{{compared to }} \sqrt{2} $$
-
-5. **Tribonacci Constant**:  
-   $$ \frac{{\text{{CG}} + \text{{CG}} + \text{{Half Base Length}}}}{{\text{{Slant Length}} + \text{{Base Length}}}} \quad \text{{compared to known Tribonacci constant}} $$
-
-6. **Root 5 (√5) Comparison**:  
-   $$ \frac{{\text{{Base Length}} + \text{{Apothem}}}}{{\text{{Apothem}}}} \quad \text{{compared to }} \sqrt{5} $$
-
-7. **Root 3 (√3) Comparison**:  
-   $$ \frac{{\text{{Height}} + \text{{CG}} + \text{{CG}}}}{{\text{{North Base}} + \text{{Eastern Base}}}} \quad \text{{compared to }} \sqrt{3} $$
-
-8. **Golden Ratio Minus 1 (φ - 1) Comparison**:  
-   $$ \frac{{\text{{Apothem}}}}{{\text{{Apothem}} + \frac{{\text{{Base Length}}}}{2}}} \quad \text{{compared to }} \phi - 1 $$
-
-
-9. **Pi Method 1 Calculation**:  
-   $$ \text{{My Method 1: }} \left( \sin\left( \frac{{\text{{North Base}}}}{{\frac{{\text{{Eastern Base}}}}{2}}} \right) \div \text{{Height}} \right) \times \text{{North Base}} $$  
-
-
-10. **Pi Method 2 Calculation**:  
-   $$ \text{{My Method 2: }} \left( \text{{calculate\_apothem}}() - \text{{calculate\_edge}}() + \frac{{\text{{Base Length North}}}}{{\text{{Height}}}} \times \frac{{\text{{Base Length East}}}}{{\text{{Half Base}}}} \right) $$  
-
-
-11. **Golden Ratio Method 2 Calculation**:  
-   $$ \text{{My Method 3: }} \left| \sin\left( \log\left( \text{{Base Length East}} \right) \right) - \text{{Edge}} \right| \div \text{{Half Base}} $$  
-
-
-### Speed of Light Approximation
-
-I developed a unique formula that approximates the speed of light using the geometric properties of a pyramid. The formula is:
-
-$$
-\frac{{\sqrt{\log(\text{height})} \times \text{base\_length\_north} - \text{base\_length\_east}}}{{\text{half\_base}}}
-$$
-
+![sp2](/img/s2.png)
 This formula demonstrates how geometric constants can be linked to fundamental physics constants. The data in `data/light_of_speed.txt` played a key role in my discovery of this relationship, and the formula was devised as part of the pyramid geometry analysis in this project.
 
 **Known Values**:
