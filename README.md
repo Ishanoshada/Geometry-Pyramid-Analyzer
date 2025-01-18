@@ -70,7 +70,6 @@ geometry-pyramid-analysis/
 - **requirements.txt**: File listing Python dependencies required for the project.
 
 ![img5](/img/pyr_giza.png)
-
 ### Key Parameters and Their Relationships
 
 - **Base Lengths**: North and East
@@ -78,59 +77,52 @@ geometry-pyramid-analysis/
 - **Slope Angle**: Angle between the base and the slant height
 - **Apothem**: The slant height of the pyramid, calculated using the Pythagorean theorem.
 - **Edge**: The distance from the apex (or peak) to a corner of the base.
-- **Diagonal** (CG): The diagonal distance, which is calculated as \( \sqrt{2 \times (\text{Base Length})^2} \).
+- **Diagonal (CG)**: The diagonal distance, which is calculated as  
+  \[
+  \text{Diagonal (CG)} = \sqrt{2 \times (\text{Base Length})^2}
+  \]
 
 ### Special Calculations
-
-The special comparisons provide interesting insights by relating pyramid parameters to well-known mathematical constants like Pi, the Golden Ratio, and the Tribonacci constant.
 
 1. **Pi (π) Comparison**:
    \[
    \frac{{\text{{North Base Length}} + \text{{Eastern Base Length}}}}{{\text{{Height}}}} \quad \text{{compared to }} \pi
    \]
-   This formula compares the sum of the base lengths to the height of the pyramid with the mathematical constant Pi.
 
 2. **Golden Ratio (φ) Comparison**:
    \[
    \frac{{\text{{Edge}}}}{{\frac{{\text{{Base Length}}}}{2}}} \quad \text{{compared to }} \phi
    \]
-   This formula explores the relationship between the edge and half of the base length, compared to the Golden Ratio.
 
 3. **Square Root of Golden Ratio (√φ) Comparison**:
    \[
    \frac{{\text{{Apothem}}}}{{\text{{Height}}}} \quad \text{{compared to }} \sqrt{\phi}
    \]
-   A comparison between the apothem and the height of the pyramid, with respect to the square root of the Golden Ratio.
 
 4. **CG and Base Length Comparison**:
    \[
    \frac{{\text{{CG}}}}{{\text{{Base Length}}}} \quad \text{{compared to }} \sqrt{2}
    \]
-   This relates the diagonal (CG) to the base length of the pyramid, compared to \( \sqrt{2} \).
 
 5. **Tribonacci Constant**:
    \[
    \frac{{\text{{CG}} + \text{{CG}} + \text{{Half Base Length}}}}{{\text{{Slant Length}} + \text{{Base Length}}}} \quad \text{{compared to known Tribonacci constant}}
    \]
-   This formula involves the Tribonacci constant, a generalization of the Fibonacci sequence.
 
 6. **Root 5 (√5) Comparison**:
    \[
    \frac{{\text{{Base Length}} + \text{{Apothem}}}}{{\text{{Apothem}}}} \quad \text{{compared to }} \sqrt{5}
    \]
-   A comparison between the base length and the apothem, related to \( \sqrt{5} \).
 
 7. **Root 3 (√3) Comparison**:
    \[
    \frac{{\text{{Height}} + \text{{CG}} + \text{{CG}}}}{{\text{{North Base}} + \text{{Eastern Base}}}} \quad \text{{compared to }} \sqrt{3}
    \]
-   The sum of the height and two diagonals compared to the sum of the base lengths, relating to \( \sqrt{3} \).
 
 8. **Golden Ratio Minus 1 (φ - 1) Comparison**:
    \[
    \frac{{\text{{Apothem}}}}{{\text{{Apothem}} + \frac{{\text{{Base Length}}}}{2}}} \quad \text{{compared to }} \phi - 1
    \]
-   This explores the ratio of the apothem to half of the base length, compared to \( \phi - 1 \).
 
 9. **Pi Method 1 Calculation**:
    \[
@@ -147,8 +139,7 @@ The special comparisons provide interesting insights by relating pyramid paramet
    \left| \sin\left( \log\left( \text{{Base Length East}} \right) \right) - \text{{Edge}} \right| \div \text{{Half Base}}
    \]
 
-
-
+---
 
 ### Speed of Light Approximation
 
@@ -168,9 +159,7 @@ This formula demonstrates how geometric constants can be linked to fundamental p
 - Diagonal Base: 1144.66446 ft
 - Half Base: 404.7 ft
 
-The calculated value is:
-
-
+**Calculated Value**:
 - **Calculated Speed of Light**:  
   \( 2.997884 \, \text{ft/s} \)
 
@@ -181,6 +170,7 @@ The calculated value is:
   \( 0.000040 \, \text{ft/s} \)
 
 This difference is small enough to indicate that the pyramid's dimensions, through this calculation, yield a close approximation to the actual speed of light.
+
 
 
 ---
