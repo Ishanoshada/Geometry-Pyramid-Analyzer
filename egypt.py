@@ -306,6 +306,7 @@ pyramids_data = {
     },
 }
 
+
 import math
 
 # Constants for comparisons
@@ -321,7 +322,8 @@ def calculate_comparisons(pyramids_data):
         
         # Golden Ratio comparison
         half_base = data["north_base_length"] / 2
-        golden_ratio_value = data["edge"] / half_base
+        edge = math.sqrt((half_base) ** 2 + data["height"] ** 2)
+        golden_ratio_value = edge / half_base
         golden_ratio_diff = abs(golden_ratio_value - phi)
         
         results.append({
