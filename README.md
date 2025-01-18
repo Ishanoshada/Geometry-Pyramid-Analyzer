@@ -120,8 +120,9 @@ geometry-pyramid-analysis/
 
 8. **Golden Ratio Minus 1 (φ - 1) Comparison**:
    \[
-   \frac{{\text{{Apothem}}}}{{\text{{Apothem}} + \frac{{\text{{Base Length}}}}{2}}} \quad \text{{compared to }} \phi - 1
-   \]
+\frac{{\text{{Apothem}}}}{{\text{{Apothem}} + \frac{{\text{{Base Length}}}}}{2}} \quad \text{{compared to }} \phi - 1
+\]
+
 
 9. **Pi Method 1 Calculation**:
    \[
