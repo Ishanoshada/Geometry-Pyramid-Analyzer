@@ -872,3 +872,5 @@ For a detailed explanation of the pyramid analysis in **Sinhala**, you can read 
 This repository is licensed under the MIT License. See `LICENSE` for more information.
 
 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/pyramids/count.svg)
